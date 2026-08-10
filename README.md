@@ -118,7 +118,7 @@ The final dashboard provides insights into:
 
 ## Department Performance Analysis
 
-![Department Performance](images/department_performance.png)
+![Department Performance](images/department-performance.png)
 
 This analysis compares departments based on patient satisfaction and average waiting time to identify areas requiring operational attention.
 
@@ -135,7 +135,7 @@ Maternity achieved the highest average satisfaction score among the departments 
 Departments with longer average waiting times showed lower satisfaction scores, highlighting waiting time as an important area for operational improvement.
 
 ## 4. Monthly Trends
-![Monthly Volume and Satisfaction](images/monthly_volume_satisfaction.png)
+![Monthly Volume and Satisfaction](images/monthly-volume-satisfaction.png)
 
 Patient volume varied throughout the year, while overall satisfaction remained relatively stable.
 
