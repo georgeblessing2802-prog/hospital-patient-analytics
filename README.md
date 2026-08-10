@@ -117,7 +117,7 @@ The final dashboard provides insights into:
 # Key Insights
 
 ## Department Performance Analysis
-
+![Department Performance](images/department-performance.png)
 
 This analysis compares departments based on patient satisfaction and average waiting time to identify areas requiring operational attention.
 
@@ -135,9 +135,12 @@ Departments with longer average waiting times showed lower satisfaction scores, 
 
 ## 4. Monthly Trends
 
+![Monthly Volume Satisfaction](images/monthly-volume-satisfaction.png)
+
 Patient volume varied throughout the year, while overall satisfaction remained relatively stable.
 
 ## 5. Patient Outcomes
+![Patient Outcomes](images/patient-outcomes.png)
 
 Recovery was the dominant patient outcome category throughout the analysed period.
 
