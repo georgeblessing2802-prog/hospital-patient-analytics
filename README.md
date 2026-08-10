@@ -146,7 +146,6 @@ Here, Patient volume varied throughout the year, while overall satisfaction rema
 ![Patient Outcomes](images/patient-outcomes.png)
 
 This visualization highlights changes in patient outcomes across months and shows the distribution of recovery and other outcomes.
-
 Recovery was the dominant patient outcome category throughout the analysed period.
 
 ---
