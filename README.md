@@ -118,10 +118,6 @@ The final dashboard provides insights into:
 
 ## Department Performance Analysis
 
-![Department Performance](images/department-performance.png)
-
-This analysis compares departments based on patient satisfaction and average waiting time to identify areas requiring operational attention.
-
 ## 1. Outpatient Service Demand
 
 Outpatient recorded the highest patient volume, indicating potential pressure on service capacity and waiting-time management.
@@ -135,15 +131,10 @@ Maternity achieved the highest average satisfaction score among the departments 
 Departments with longer average waiting times showed lower satisfaction scores, highlighting waiting time as an important area for operational improvement.
 
 ## 4. Monthly Trends
-![Monthly Volume and Satisfaction](images/monthly-volume-satisfaction.png)
 
 Patient volume varied throughout the year, while overall satisfaction remained relatively stable.
 
 ## 5. Patient Outcomes
-
-![Patient Outcomes](images/patient-outcomes.png)
-
-This visualization highlights changes in patient outcomes across months and shows the distribution of recovery and other outcomes.
 
 Recovery was the dominant patient outcome category throughout the analysed period.
 
