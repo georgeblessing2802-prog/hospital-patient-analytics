@@ -118,7 +118,6 @@ The final dashboard provides insights into:
 
 ## Department Performance Analysis
 
-![Department Performance](images/department-performance.png)
 
 This analysis compares departments based on patient satisfaction and average waiting time to identify areas requiring operational attention.
 
